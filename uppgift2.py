@@ -218,6 +218,7 @@ for N in N_ts:
 #N = 1280: p_q = 1.0634225662442538, p_i = 1.128946919694393
 #N = 2560: p_q = 1.0306791632326628, p_i = 1.0624717420349674
 #N = 5120: p_q = 1.0134301285424268, p_i = 1.028506318287305
+#N = 10240: p_q = 1.0029419691568036, p_i = 1.0091289648021844
 #Nogranhetsordningen blir som förväntat eftersom att båda p går mot 1. 
 # Vilket stämmer överens med med teorin eftersom felet beter sig som eh ≈ Ch^p
 """
